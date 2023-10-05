@@ -1,0 +1,3 @@
+Atividade realizada na 5° aula de programação em Java. Uso de if e elses. Questão passada pela professora: Imagine que você está criando um site, onde é necessário testar a idade do cliente para que ele possa ter acesso aos serviços disponíveis no sistema. Caso o cliente tenha 18 anos ou mais, é enviada uma mensagem de boas vindas ao
+cliente, caso contrário, é emitida uma mensagem informando que ele não pode acessar o sistema, pois sua idade é inferior a 18 anos. Faça o cãlculo da idade a partir da data atual e da data de nascimento.
+Crie um programa, em linguagem java, que satisfaça as condições acima citadas.
